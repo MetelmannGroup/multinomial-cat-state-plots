@@ -1,4 +1,5 @@
-This repository contains a Jupyter notebook .ipynb file that has been used to plot figures for the paper "Dissipative preparation and stabilization of $d$-mode multinomial cat states". The codes are written using Jupyter notebook 6.5.7 and Qutip 5.3.
+This repository contains the Jupyter notebook (.ipynb) used to generate the figures for the paper "Dissipative preparation and stabilization of $d$-mode multinomial cat states"
+[ArXiv](http://arxiv.org/abs/2607.03302). The notebook was developed using Jupyter Notebook 6.5.7 and QuTiP 5.3. It reproduces the numerical simulations and figures presented in the publication.
 
 # Reading the notebook
 To run the file, you need the Jupyter notebook (offline version) installed on your desktop, or simply use google colab (online version).
@@ -66,7 +67,7 @@ You can change the parameters, Hamiltonians, and operators in the code to obtain
 
 Please let us know if you have any comments/suggestions.
 If you use this code for your work, please cite the following paper :
-Dissipative preparation and stabilization of $d$-mode multinomial cat states (link to be added).
+Dissipative preparation and stabilization of $d$-mode multinomial cat states [ArXiv 2026](http://arxiv.org/abs/2607.03302).
 
 # License
 This work is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. See https://creativecommons.org/licenses/by/4.0/ 
